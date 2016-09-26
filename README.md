@@ -1,2 +1,2 @@
 # SearSearchStyle
- ![image](https://github.com/LevenWin/SearSearchStyle/Search/bg2.jpg)
+ ![image](https://github.com/LevenWin/SearSearchStyle/Search/screen.gif)
